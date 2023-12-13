@@ -12,3 +12,17 @@ ergebnis = zahl1 + zahl2
 
 # Ergebnis ausgeben
 print("Die Summe ist:", ergebnis)
+
+# Dieses Skript erstellt eine Liste und gibt Teile davon aus
+
+# Eine Liste von Obst
+obst = ["Apfel", "Banane", "Orange", "Kiwi", "Erdbeere"]
+
+# Ausgabe des ersten Elements
+print("Erstes Element:", obst[0])
+
+# Ausgabe der ersten drei Elemente
+print("Erste drei Elemente:", obst[:3])
+
+# Ausgabe des letzten Elements
+print("Letztes Element:", obst[-1])
